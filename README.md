@@ -1,2 +1,11 @@
-# cs-tradeoff
-Key concept and trade-off desing in cs engineering
+# CS Engineering
+
+## What Is It
+
+## What‘s Difference
+
+## How Design
+
+## Why Design
+
+## Case
